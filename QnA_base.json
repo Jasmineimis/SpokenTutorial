@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "questions": "hello",
+      "answer": "hey there."
+    },
+    {
+      "questions": "how are you?",
+      "answer": "i am fine. hope you are well."
+    },
+    {
+      "questions": "what is the capital of denmark?",
+      "answer": "copenhagen"
+    },
+    {
+      "questions": "thank you",
+      "answer": "glad i could be of help."
+    }
+  ]
+}
